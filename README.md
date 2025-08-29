@@ -27,9 +27,9 @@ Features
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
-  
+  https://github.com/Fathimaanna/AI-Powered-Phishing-Detection-System.git
 
-	2.	Install dependencies:
+2.	Install dependencies:
 
 pip install -r requirements.txt
 
